@@ -1,6 +1,6 @@
 # Image Segmentation Project
 
-This project purpose was to solve an Image Segmentation problem with the [Oxford IIT-Pet dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/). The problem is to select the pixels 
+This project purpose was to solve an Image Segmentation problem with some satellite images picturing buildings and roads. The problem is to select the pixels 
 in which a given subject lies within the image, in this way the model selects a labeled area inside of it. An example is given in the picture below.
 
 ![segmentation-example](https://www.robots.ox.ac.uk/~vgg/data/pets/pet_annotations.jpg)
