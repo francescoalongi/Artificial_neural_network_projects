@@ -15,7 +15,7 @@ The first project was an __Object Recognition__ challenge in which we had to bui
 
 ### Project #2: Image Segmentation Network
 
-The second project had the purpose of getting acquainted with the __Image Segmentation__ problem, which consists in selecting the pixel space within the image in which a specific object "lies". For this network we did some literature research in order to study effective models to solve the problems (_U-net_ etc.). For this challenge we used a simpler version of the [Oxford IIIT-Pet dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/), where the recognition targets are some animals and the dataset also contains the _mask_ to be applied to the image in order to select the animal shape inside the image.
+The second project had the purpose of getting acquainted with the __Image Segmentation__ problem, which consists in selecting the pixel space within the image in which a specific object "lies". For this network we did some literature research in order to study effective models to solve the problems (_U-net_ etc.). For this challenge we used a dataset containing satellite images of buildings and road, where the recognition targets are the building shapes.
 
 ### Project #3: Visual Question Answering Network
 
