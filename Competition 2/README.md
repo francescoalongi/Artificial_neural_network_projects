@@ -3,7 +3,8 @@
 This project purpose was to solve an Image Segmentation problem with some satellite images picturing buildings and roads. The problem is to select the pixels 
 in which a given subject lies within the image, in this way the model selects a labeled area inside of it. An example is given in the picture below.
 
-![segmentation-example](https://www.robots.ox.ac.uk/~vgg/data/pets/pet_annotations.jpg)
+![inbox_3311561_229e83d6163165828b175edc5f1a2b5e_71](https://user-images.githubusercontent.com/19633559/109698049-3e423c00-7b8f-11eb-93db-9247db32562a.png)
+![inbox_3311561_14527a461492c2a3711f4c6993e372ea_71_mask](https://user-images.githubusercontent.com/19633559/109698060-413d2c80-7b8f-11eb-82a5-10b33c7a2ed7.png)
 
 ## Dataset Structure
 
