@@ -3,7 +3,7 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 # Artificial Neural Networks and Deep Learning Projects (A.A. 2019/2020)
 
-Authors: Francesco Alongi, Gerlando Re.
+**Authors**: Francesco **Alongi**, Gerlando **Re**.
 
 This repository contains the projects for the Artificial Neural Networks and Deep Learning Course. For all these projects we used Tensorflow 2.1.0 (all requirements are listed in the ``requirements.txt`` file). </br>
 
