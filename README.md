@@ -2,7 +2,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Run%20with-Jupyter-orange?logo=Jupyter)](https://jupyter.org/try) 
 [![Tensorflow ](https://img.shields.io/badge/Powered%20by-Tensorflow-yellow?logo=tensorflow)](https://www.tensorflow.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-![neural_network_shutterstock](https://user-images.githubusercontent.com/36633875/109690443-a4769100-7b86-11eb-923b-b97f7e4b5bc7.jpg)
+![nn_blurred](https://user-images.githubusercontent.com/19633559/109692505-e7d1ff00-7b88-11eb-9add-329883839f1d.jpg)
 # Artificial Neural Networks and Deep Learning Projects
 
 This repository contains the projects for the Artificial Neural Networks and Deep Learning Course. For all these projects we used Tensorflow 2.1.0 (all requirements for each competition are listed in the corresponding ``requirements.txt`` file). </br>
