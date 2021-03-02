@@ -9,7 +9,7 @@ This repository contains the projects for the Artificial Neural Networks and Dee
 
 ### Project #1: Image Classification Network
 
-The first project was an __Object Recognition__ challenge in which we had to build a CNN classifier. The dataset was composed of images representing 20 different types of objects (airplanes, bulbs...) also with an unbalancement in number of samples.
+The first project was an __Object Recognition__ challenge in which we had to build a CNN classifier. The dataset was composed of images representing 20 different types of objects (airplanes, bulbs...) also with an unbalance in the number of samples.
 
 ### Project #2: Image Segmentation Network
 
