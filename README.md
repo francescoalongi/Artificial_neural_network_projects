@@ -1,11 +1,13 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=Jupyter)](https://jupyter.org/try) 
+[![Made withJupyter](https://img.shields.io/badge/Run%20with-Jupyter-orange?logo=Jupyter)](https://jupyter.org/try) 
+[![Tensorflow ](https://img.shields.io/badge/Powered%20by-Tensorflow-yellow?logo=tensorflow)](https://www.tensorflow.org/)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-# Artificial Neural Networks and Deep Learning Projects (A.A. 2019/2020)
+![neural_network_shutterstock](https://user-images.githubusercontent.com/36633875/109690443-a4769100-7b86-11eb-923b-b97f7e4b5bc7.jpg)
+# Artificial Neural Networks and Deep Learning Projects
 
-**Authors**: Francesco **Alongi**, Gerlando **Re**.
+This repository contains the projects for the Artificial Neural Networks and Deep Learning Course. For all these projects we used Tensorflow 2.1.0 (all requirements for each competition are listed in the corresponding ``requirements.txt`` file). </br>
 
-This repository contains the projects for the Artificial Neural Networks and Deep Learning Course. For all these projects we used Tensorflow 2.1.0 (all requirements are listed in the ``requirements.txt`` file). </br>
+**Authors**: Francesco Alongi and [Gerlando Re](https://github.com/gerlaxrex)
 
 ### Project #1: Image Classification Network
 
