@@ -3,30 +3,30 @@ In this competition, we were asked to solve a VQA problem using a reducted versi
 
 ## Dataset structure
 This reducted version of the CLEVR dataset was composed as follows:
-* Images:
-  * Image size: 320x480 pixels
-  * Color space: RGBA
-  * File Format: .png
-  * Number of training images: 69642
-  * Number of test images: 2754
-* Questions:
-  * Two types of questions: "exist" or "count"
-  * Number of training questions: 259492
-  * Number of test questions: 3000
-* Answers (13 possible answer):
-  * '0': 0
-  * '1': 1
-  * '10': 2
-  * '2': 3
-  * '3': 4
-  * '4': 5
-  * '5': 6
-  * '6': 7
-  * '7': 8
-  * '8': 9
-  * '9': 10
-  * 'no': 11
-  * 'yes': 12
+* **Images**:
+  * *Image size*: 320x480 pixels
+  * *Color space*: RGBA
+  * *File Format*: .png
+  * *Number of training images*: 69642
+  * *Number of test images*: 2754
+* **Questions**:
+  * *Two types of questions*: "exist" or "count"
+  * *Number of training questions*: 259492
+  * *Number of test questions*: 3000
+* **Answers (13 possible answer)**:
+  * *'0'*: 0
+  * *'1'*: 1
+  * *'10'*: 2
+  * *'2'*: 3
+  * *'3'*: 4
+  * *'4'*: 5
+  * *'5'*: 6
+  * *'6'*: 7
+  * *'7'*: 8
+  * *'8'*: 9
+  * *'9'*: 10
+  * *'no'*: 11
+  * *'yes'*: 12
 
 The dataset was given with the following structure:
 
