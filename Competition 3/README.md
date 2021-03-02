@@ -35,11 +35,11 @@ The dataset was given with the following structure:
 └── dataset_vqa
     ├── train
     │   ├── CLEVR_train_x.png
-    ⋮    ...
+    ⋮    ⋮
     │   └── CLEVR_train_y.png
     ├── test
     │   ├── CLEVR_val_x.png
-    ⋮    ...
+    ⋮    ⋮
     │   └── CLEVR_val_y.png
     ├── train_data.json
     └── test_data.json
