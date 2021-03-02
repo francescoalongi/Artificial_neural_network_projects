@@ -13,4 +13,9 @@ The first project was an __Object Recognition__ challenge in which we had to bui
 
 ### Project #2: Image Segmentation Network
 
-The second project had the purpose of getting acquainted with the __Image Segmentation__ problem, which consists in selecting the pixel space within the image in which a specific object "lies". For this network we did some litterature research in order to study effective models to solve the problems (_U-net_ etc.)
+The second project had the purpose of getting acquainted with the __Image Segmentation__ problem, which consists in selecting the pixel space within the image in which a specific object "lies". For this network we did some litterature research in order to study effective models to solve the problems (_U-net_ etc.). For this challenge we used a simpler version of the Oxford IIIT-Pet dataset [https://www.robots.ox.ac.uk/~vgg/data/pets/], where the recognition targets are some animals and the dataset also contains the _mask_ to be applied to the image in order to select the animal shape inside the image.
+
+### Project #3: Visual Question Answering Network
+
+The third and last challenge was a Visual Question Answering challenge, with the purpose of building a model that could intertwine both a CNN and an RNN. The challenge constisted of answering to some questions about a particular image, selecting the answer among 13 possible predefined answers. For this challenge a simpler version of the CLEVR dataset was used [https://cs.stanford.edu/people/jcjohns/clevr/]. </br>
+Also for this challenge we had to explore the litterature in order to find a model that could adapt to our problem and could give us a good performance. Also the special side of the challenge was to mix a network for the feature extraction of the image with a recurrent neural network for text prediction.
