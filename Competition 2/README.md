@@ -41,7 +41,10 @@ The dataset at our disposal had the following structure:
 ``U-Net-style-model.ipynb``: This is the main notebook, where we implemented a U-Net-like structure for the model.
 
 ## Model Description
-We built a U-Net like structure, using _skipping connections_ implemented through ``Concatenate`` layers keeping the data augmentation low. The U-Net-like structure has been explored in various settings: the number of filters, the depth of the network and the number of ``Conv2D`` layers in each macro-layer of the U-Net have been perturbed various times before obtaining a validation loss around 0.24 with a IoU (_Intersection over Union_) metric of about 76%. On Kaggle we scored a 0.54 accuracy, pretty consistent with the  results on the validation IoU. A possible improvement is to use a Jaccard loss for the training.
+We built a U-Net like structure, using _skipping connections_ implemented through ``Concatenate`` layers keeping the data augmentation low. The U-Net-like structure has been explored in various settings: the number of filters, the depth of the network and the number of ``Conv2D`` layers in each macro-layer of the U-Net have been perturbed various times before obtaining a validation loss around 0.24 with a IoU (_Intersection over Union_) metric of about 76%. On Kaggle we scored a 0.54 accuracy, pretty consistent with the  results on the validation IoU. A possible improvement is to use a Jaccard loss for the training.</br>
+
+<img src="https://user-images.githubusercontent.com/36633875/109700769-7f881b00-7b92-11eb-9246-685be0daea18.jpg" height="1400px"/>
+
 
 
 
