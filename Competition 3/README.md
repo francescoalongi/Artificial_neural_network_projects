@@ -62,6 +62,7 @@ where the `train_data.json` and `test_data.json` are composed of dictionaries wi
 ## Model Description
 For the final solution we decided to extract features from every image in the dataset using a pre-trained VGG19 network and using global average pooling in order to obtain a feature vector with length equal to 512. Then we created a custom data generator that for every entry in the dataset (training, validation or testing) returns a batch of list composed of the tokenized question, the feature vector corresponding to the image and the target (if not in testing mode). The tokenized question was fed to a RNN with two LSTMs Bidirectional layers. The output of the RNN and the feature vector (coming out from the generator) go through two separate dense layers, successively merged using a Concatenate layer. Then a fully connected network does the classification over the 13 classes.
 
-<img src="https://user-images.githubusercontent.com/19633559/109685522-a1c56d00-7b81-11eb-89d1-c184b846cc96.jpg" width=600>
+<img src="https://user-images.githubusercontent.com/19633559/109686321-742cf380-7b82-11eb-91b3-ffaacb326df7.jpg" width=600>
+
 
 
