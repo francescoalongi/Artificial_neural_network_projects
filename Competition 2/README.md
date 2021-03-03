@@ -37,8 +37,8 @@ The dataset at our disposal had the following structure:
         └── test_image_z.tif
 ```
 ## Notebook Description
-``ValSetCreation.ipynb``: This notebook is used in order to build the JSON file that is used in order to extract the validation set from the training data. 
-``U-Net-style-model.ipynb``: This is the main notebook, where we implemented a U-Net-like structure for the model.
+* ``ValSetCreation.ipynb``: This notebook is used in order to build the JSON file that is used in order to extract the validation set from the training data. 
+* ``U-Net-style-model.ipynb``: This is the main notebook, where we implemented a U-Net-like structure for the model.
 
 ## Model Description
 We built a U-Net like structure, using _skipping connections_ implemented through ``Concatenate`` layers keeping the data augmentation low. The U-Net-like structure has been explored in various settings: the number of filters, the depth of the network and the number of ``Conv2D`` layers in each macro-layer of the U-Net have been perturbed various times before obtaining a validation loss around 0.24 with a IoU (_Intersection over Union_) metric of about 76%. On Kaggle we scored a 0.54 accuracy, pretty consistent with the  results on the validation IoU. A possible improvement is to use a Jaccard loss for the training.</br>
