@@ -1,4 +1,4 @@
-# Visual Question Answering competition 
+# Visual Question Answering Project
 In this competition, we were asked to solve a VQA problem using a reducted version of the [CLEVR dataset](https://cs.stanford.edu/people/jcjohns/clevr/). A VQA problem consists of providing the correct answer when an image coupled with a question is provided. An example is shown below.
 
 ![synthetic_scene_example](https://user-images.githubusercontent.com/19633559/109695609-654b3e80-7b8c-11eb-9e0c-8693f846b827.png) </br>
